@@ -34,5 +34,7 @@ O ejecutar el JAR en `/target/`.
   ```bash
   java -jar app.jar --spring.profiles.active=prod
   ```
+  ![MensajeDev](https://github.com/user-attachments/assets/4b91d434-a157-489a-9773-a295546268c6)
+
 
 ### Camila Bastian - 50795
