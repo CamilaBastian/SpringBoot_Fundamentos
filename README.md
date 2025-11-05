@@ -35,6 +35,8 @@ O ejecutar el JAR en `/target/`.
   java -jar app.jar --spring.profiles.active=prod
   ```
   ![MensajeDev](https://github.com/user-attachments/assets/4b91d434-a157-489a-9773-a295546268c6)
+  ![MensajeProd](https://github.com/user-attachments/assets/7ef39bde-df1f-4057-9928-f9164ca83aaf)
+
 
 
 ### Camila Bastian - 50795
