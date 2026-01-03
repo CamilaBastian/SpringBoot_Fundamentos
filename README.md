@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green?style=flat-square&logo=springboot)
 ![Maven](https://img.shields.io/badge/Maven-Build-blue?style=flat-square&logo=apachemaven)
-![UTN](https://img.shields.io/badge/UTN-Programaci%C3%B3n_III-blueviolet?style=flat-square)
 
 > **Trabajo Práctico - Fundamentos de Spring Boot**
 > Ingeniería en Sistemas de Información (UTN)
