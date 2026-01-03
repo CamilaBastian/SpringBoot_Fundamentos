@@ -120,6 +120,3 @@ Durante el desarrollo de este trabajo práctico se aplicaron los siguientes conc
 **Legajo:** 50795
 **Materia:** Desarrollo de Software - Ingeniería en Sistemas de Información
 
-```
-
-
